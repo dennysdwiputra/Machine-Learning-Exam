@@ -74,7 +74,7 @@ Employee Satisfaction |[Satisfaction.csv](./satisfaction.csv)|[Satisfaction](./s
 <hr>
 
 
-✅ _Commit dan Push jawaban anda ke Repository Github anda, beri nama repo anda __(Dataset yang anda pilih)-Machine-Learning-Project__ kemudian kirim __Link repo github__ anda  via email ke _khumaeni@purwadhika.com dan operational_bdg@purwadhika.com_!_
+✅ _Commit dan Push jawaban anda ke Repository Github anda, beri nama repo anda __(Dataset yang anda pilih)-Machine-Learning-Project__ kemudian kirim __Link repo github__ anda  via email ke _khumaeni@purwadhika.com dan untuk student BSD kirim email juga ke operational@purwadhika.com dan untuk student jakarta kirim juga email ke operational_jkt@purwadhika.com__
     
     
 
